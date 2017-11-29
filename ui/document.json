@@ -33,6 +33,7 @@
   },
   "pages": [
     "Page 1",
+    "uiMock",
     "渐变",
     "Symbols"
   ],

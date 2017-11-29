@@ -1,0 +1,109 @@
+{
+  "_class": "group",
+  "do_objectID": "047E35CF-853D-4DFE-A65A-F8D6FEA7C9EA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 22,
+    "x": 112,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "98D46B29-991D-4800-8C13-76296BBB872A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6A32F999-9BA1-4675-90FE-45A82C7E821F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "73C1F588-5394-4E64-AAE5-8F9ED731E563"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DAFDB881-2D2D-4469-AD55-DD67D7A85EC8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B1CC2C7C-4F92-4E8D-87B2-B9C40B7AD233"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "46C5892E-E1DD-4DCC-991A-CA64DC1F81FB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6D25C107-BAD2-4508-A84E-7D32CEDFA10B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DAE527E4-FAB0-40E3-BADF-DE7BB9FF3384"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DF7E65E6-AC4C-4924-B201-638B6314B1E0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1633F2CC-C505-4AA7-8A8D-CEFF7A9F82EC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FD8929E2-B5EE-4A77-B281-A1FB4706F60D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "62182536-4FA9-4A8D-ACC4-DDD34E8422C7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A160C722-C784-46D8-A1FB-0B79DA9965B5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1BEB21BD-72E5-45F8-AD22-2C3847D827D7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EF05BE5F-A25D-4E06-8CEB-800867619E5E"
+    }
+  ],
+  "name": "locomotive",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.5859375,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

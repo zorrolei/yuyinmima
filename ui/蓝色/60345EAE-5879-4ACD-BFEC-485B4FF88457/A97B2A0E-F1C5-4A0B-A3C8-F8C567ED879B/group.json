@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "A97B2A0E-F1C5-4A0B-A3C8-F8C567ED879B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 40,
+    "x": 189,
+    "y": 282
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "67BC22A3-3989-4E87-92A7-6563F2A508EE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F944A892-013D-4A48-BE38-9C296D27D3EA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3E065DEC-3304-48D6-92C0-7D3CDABEF465"
+    }
+  ],
+  "name": "微博",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.390625,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

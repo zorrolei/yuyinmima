@@ -1,0 +1,117 @@
+{
+  "_class": "group",
+  "do_objectID": "A07B9FDD-7539-402E-8228-ADD3D689686C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 80,
+    "x": 202,
+    "y": 236
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "562135BE-D6A2-4624-A919-0FFE3E4217AD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "777B8DDF-08DA-4986-BA25-AF732E72552D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3AA064FC-D515-471A-BBF8-A1DF5D62A498"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "21E66E9C-AD8F-437B-B839-A720C8C5B538"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CC10029B-9DD8-4153-9EA3-EA8C608CB267"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "340EBF76-6666-48E8-BF7B-0CAE33ECA8D3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C7105D95-8F3E-4B3F-ACE2-B159B5D5EEAD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9EE01E67-4033-4502-82BE-4A12D05D61AE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "824F5C05-67E7-49CC-9825-D52C99952F42"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0F057E2A-2C09-4956-9395-C55F2D79014C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D3E6D9CA-E272-48C6-9ABC-3D809FD7DDB2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "93727BB6-00B7-4BFD-8AB0-F129B497CEB2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7D2A052A-C584-4B51-AF31-B73E8CF50045"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F57C4D30-AAC7-4CD5-9AFF-0BF0F44A5890"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "46BF284C-B5AA-4034-9344-96F6FD84B1C6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "312C042A-8CDD-47E1-A86F-2CBFC2552910"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FF62D776-BFCE-4F1F-B35F-7B3264B7C932"
+    }
+  ],
+  "name": "jeep",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.587301587301587,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9568627450980393,
+    "green": 0.9607843137254902,
+    "red": 0.996078431372549
+  },
+  "do_objectID": "4C1386C8-F7DB-41F6-94B1-415085AC99E8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 360,
+    "width": 640,
+    "x": 1221,
+    "y": 1343
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9BFE0405-59D0-4AFF-9B5C-3DB72E6E1AE8"
+    },
+    {
+      "class": "text",
+      "id": "543379DF-5FD4-4E28-9B46-1BB693569F14"
+    },
+    {
+      "class": "group",
+      "id": "AD522179-6612-4A44-A28A-CAC36D660507"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2DABD73A-58D4-4AC0-9832-0694791CD185"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A3D69861-62FF-495D-B899-CD98C828EDDB"
+    },
+    {
+      "class": "text",
+      "id": "F6D822DD-DDC5-4B52-BA03-C9ACE0886F3B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CF6FA387-034E-41E9-B401-4E4801C68C18"
+    },
+    {
+      "class": "text",
+      "id": "41184779-D0E4-495F-BA19-8A9335392A12"
+    },
+    {
+      "class": "text",
+      "id": "FFDAD018-E873-4F38-A00A-02D72881B29F"
+    },
+    {
+      "class": "text",
+      "id": "12CE27D0-6F62-4088-9258-8C817C0AEB32"
+    },
+    {
+      "class": "text",
+      "id": "E0121A02-73DC-4BA4-945B-BA56A917DBB3"
+    },
+    {
+      "class": "group",
+      "id": "D071C31D-0A7F-422E-B371-56651D879D65"
+    }
+  ],
+  "name": "登录",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1,
+      "included": 1,
+      "linkedLayers": [
+        "77DE825E-D1AC-410C-90DC-7DF1E5D69629",
+        "D75DF50B-8674-4C13-9E80-0D6A600BB253"
+      ]
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

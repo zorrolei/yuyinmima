@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "do_objectID": "F71EB77F-EC47-4781-855B-1265338785C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 864,
+    "width": 426,
+    "x": 387,
+    "y": 1964
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "11E4A7D6-F1F2-4DBB-A3AC-1983AE7E0399"
+    },
+    {
+      "class": "group",
+      "id": "DB2C4D07-C940-4627-9E95-40DCF70CEABC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F63C5B29-F150-4E5F-9C4B-BB705A10CB85"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B3ED12C6-F924-4CD9-A5E8-1C10DD5F1EAE"
+    }
+  ],
+  "name": "phone copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 90,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.5,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 29,
+        "color": {
+          "_class": "color",
+          "alpha": 0.1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 3,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "481B56FD-8886-464E-A05A-3FA7B3F14208",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 117,
+    "width": 128,
+    "x": 259,
+    "y": 63
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "slice",
+      "id": "B14EAE77-6DB3-41B6-8D0E-4A13BF1FDCC4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F1D217C4-7987-4BFC-9FC1-AB8088C68AEB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "438A6BD6-40DF-411F-9D42-A363424231E4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CD8639D6-858B-4E57-B1B2-451238FA3D09"
+    }
+  ],
+  "name": "空白页",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.8,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.957723892915456,
+    "green": 0.959079246572256,
+    "red": 0.9967580782312925
+  },
+  "do_objectID": "B8779605-B287-41A5-A175-B9D4441FD293",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 360,
+    "width": 640,
+    "x": 9330,
+    "y": 1343
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5A9CAB43-6102-4844-856C-414E47BF9BC8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B1053EE2-8620-4D0E-8FB5-D71F2DC18C1E"
+    },
+    {
+      "class": "text",
+      "id": "2A526C13-69B9-41FA-85BE-3FF9E861DD68"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C7833661-0898-4481-98D9-880058F41574"
+    },
+    {
+      "class": "group",
+      "id": "B3DB87FA-2CD3-4718-B3C4-D362C8496682"
+    },
+    {
+      "class": "text",
+      "id": "A39565E5-E0A3-4A99-8723-268ED97DFA15"
+    },
+    {
+      "class": "group",
+      "id": "11042F01-FF14-4E72-90F2-04AC00E74809"
+    },
+    {
+      "class": "group",
+      "id": "949D009A-C9D3-4A19-B93C-C0B7FCF143DB"
+    },
+    {
+      "class": "text",
+      "id": "E199E9FD-CA3E-4DB9-801A-2EEA1D969B4B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A89469C4-7DCE-4109-B3EF-F1A94D5BB210"
+    },
+    {
+      "class": "group",
+      "id": "6DF86BB3-61DB-46E5-ACF7-196FDEF2AACC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "13C7A0D2-AC0D-4C76-B9C3-A110294ECE19"
+    },
+    {
+      "class": "group",
+      "id": "03126182-31C5-4E77-BDD1-B002BB93646A"
+    },
+    {
+      "class": "group",
+      "id": "EF16CA9D-B7C5-4AB3-A2AC-3F31DD5F6105"
+    },
+    {
+      "class": "text",
+      "id": "1328E387-041B-4866-91D3-9C59AAB16CDF"
+    },
+    {
+      "class": "text",
+      "id": "72A8135A-4ADF-4BC7-8CEF-99EF2AEC24F1"
+    },
+    {
+      "class": "group",
+      "id": "88C10354-F7C4-44A9-BBA5-2A516AB84515"
+    },
+    {
+      "class": "text",
+      "id": "FE57B788-3A7B-4655-A98E-4D3D850EB8CD"
+    },
+    {
+      "class": "group",
+      "id": "77CB7FD5-7A99-4854-993E-50A25B0236AF"
+    },
+    {
+      "class": "text",
+      "id": "4D80908D-BF28-45EC-A32B-BE15C9111F1A"
+    }
+  ],
+  "name": "个人中心-未购买会员",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1,
+      "included": 1,
+      "linkedLayers": [
+        "53CD29B8-8BD1-4B3A-95D1-F74BD05D9A3F",
+        "E805BD8D-51A4-465B-B395-EB71A5A1306F"
+      ]
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

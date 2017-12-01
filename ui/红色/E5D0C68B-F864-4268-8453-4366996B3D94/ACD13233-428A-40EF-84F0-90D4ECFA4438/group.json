@@ -1,0 +1,129 @@
+{
+  "_class": "group",
+  "do_objectID": "ACD13233-428A-40EF-84F0-90D4ECFA4438",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 30,
+    "x": 213,
+    "y": 62
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3F0D3A72-9B36-4A7E-B0B5-50AAA35F41E6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "57A29068-68B2-4D18-8729-EAE80D461B51"
+    },
+    {
+      "class": "group",
+      "id": "07C13871-FAC0-4290-997F-EE9DF881A388"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7FFB5EC4-0353-4E20-9FA2-A9E1AD015CAD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FE7121EA-3AF9-46B4-9B06-C0DF6D98735E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2E1F5635-19DB-4A16-BF83-D0851F61868E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AA628D99-56FC-454E-BFAD-85A2F59B7913"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C8005325-B336-4AB4-9844-459AD5AE4234"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EB08B60B-4A37-40A2-A49F-D45A90CB0285"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1B40DECE-3709-4C3C-AE4F-3B0CCDB7359D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "360ABBEC-9204-4EDE-8858-19A00EAA3C95"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "71C25622-2CD8-4324-B7F4-CD80696CC6F9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DAFE4C7F-E1B5-42A8-81CB-F688914B0FD6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FF46C725-197F-4C8A-8434-9231992B61D8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "963B628D-03A1-4136-8299-3BE62BE68360"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "98CDE1D9-E1D6-4F4B-BF50-0130EE68C6E4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C05A6E91-D64A-4C0A-B91A-FA359383BF13"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8E9E0061-6C10-4F01-9F74-B55BB90DACA5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "229F08A3-C383-46BA-A701-BDBA7657A1EE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "48AE4440-536B-4A95-B06A-644076B91A2B"
+    }
+  ],
+  "name": "兔",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.174603174603175,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

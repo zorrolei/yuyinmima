@@ -1,0 +1,125 @@
+{
+  "_class": "group",
+  "do_objectID": "59D2B8CA-DC48-4C64-895F-29D43C4034BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 37,
+    "x": 383,
+    "y": 66
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6FF6ADE8-21F1-4604-A7D6-CDEC15BDBA42"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F665A2C2-595E-405D-AB22-3E4D6570EA70"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "220B10A2-A4AE-4901-8529-DD69DC1E92B0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6610D6E2-02C3-4B96-85AA-59EFA12AE03B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EA32D4E0-FB4A-4FD2-8017-E82A9E991C61"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B839FD4D-FAC6-42E6-A72A-CFA04F8C79F3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "650E2659-747F-4AA6-B6B1-4A30B21269E1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "45292E9F-BC12-4E9B-AA45-498CABC30462"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9DFD1702-6EEE-41BC-B902-271317D8DD09"
+    },
+    {
+      "class": "group",
+      "id": "802854E5-77E3-4F09-8FE5-59378AB62803"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C95278CE-CCE7-4D3E-A8B1-1D45D935EDCC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7B3AAFE0-F643-49DB-9B70-FE436DDDA5F9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1A10BE20-B5AA-4D58-83DA-900043EAF762"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "599B19A3-1C77-40F9-8F41-7911D6C8C432"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8C9D00C4-E0A0-408F-872A-33EA2769F1F1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0E3CA0DB-0DC2-443C-89C8-C29D4CD5E8B6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "17C4DE05-4273-412C-8A17-273A51533D1E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FDFB2778-ACA6-4D1C-8BBB-EF56106D7394"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8225D921-CCB6-4154-9E75-E02EC56D8E32"
+    }
+  ],
+  "name": "鸡",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.472222222222222,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

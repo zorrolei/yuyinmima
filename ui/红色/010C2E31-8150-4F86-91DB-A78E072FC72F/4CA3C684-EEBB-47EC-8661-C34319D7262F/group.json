@@ -1,0 +1,181 @@
+{
+  "_class": "group",
+  "do_objectID": "4CA3C684-EEBB-47EC-8661-C34319D7262F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 31,
+    "x": 213,
+    "y": 230
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "69914F50-5A7C-49D6-BC62-C6A5F88C4B0F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "443FC3F0-F0B7-4884-977D-1BF3A309FA75"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "97DEFEFD-A259-4681-BDD5-505FCE45BE4A"
+    },
+    {
+      "class": "group",
+      "id": "4A636467-34BA-47D6-94A8-53A32086A635"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D3CC6600-7C18-4D6B-AEA3-45952DBE056C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "16AD9F85-226F-4857-8CE4-A7DE3BD3363C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FEEC6B61-1934-41D7-8EFF-AD53CC84C248"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2EAB8CFF-EC08-4C28-855E-03DBF21CFA3D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0B51D86E-5313-4A2A-A20B-906B39115948"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E90A1CF1-2346-4B1D-A0AF-32B2A8A4F023"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0DCC77D4-74BB-44FB-BB52-03B5AAE6C51D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "085D79CE-B808-4458-9A60-F4668D428343"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A85C413E-E3CF-4D82-8658-5C251AB3E7B7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "520CD0D5-8C77-4E91-87CB-98127529B9B3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AA2871D1-7D03-419D-BAE4-7C83756BF4D3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C1FA469C-2631-4874-991F-CB04DB52CE48"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D378D207-6D87-4D0C-A7F3-E059C7554EEF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8ABFD2E6-11F5-4FDF-AF42-7CD24E0C78B6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B0D247B8-D9F1-438D-87FE-43D747C085F8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "708C7BD6-2F91-4EF1-A24C-58399BDCAC16"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C9FA1CC3-7095-40CC-95ED-C2BEB7E57C7F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4603B1F9-8025-4D11-86BC-39F69E3AA68D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BF8E17C3-B0A3-4C33-ACA2-E2859EA92F3E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DC4D1C0B-7B90-48DC-8412-0A7C0115D041"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B5BAA34E-9E36-4C29-8E8A-A47B34A4F4F3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "29A86766-4F5A-4771-8B71-40958108C538"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1A4B4567-D673-450F-8B6C-4383077BD240"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CD97B130-5C9B-435B-A329-0C5C9F07B6B5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "227EA9C2-A19F-4B49-969E-2E015C14F280"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C86218BE-96F8-44FF-8C83-FB5D8FB31611"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F92446BF-DB45-4F4D-9A69-7489C11A031E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5F30A475-512E-48A9-9FF9-A85BBD84A200"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4617C5F3-7FCD-46C0-86D5-D616AEC1B86A"
+    }
+  ],
+  "name": "Page 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.759398496240602,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

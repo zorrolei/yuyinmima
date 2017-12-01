@@ -83,16 +83,8 @@
       "id": "C0661DD4-3DD9-4244-9764-9E06A01779F3"
     },
     {
-      "class": "text",
-      "id": "BB6729BE-3CC8-40AA-970D-D5E21B5ACF4B"
-    },
-    {
-      "class": "text",
-      "id": "0100C85C-9EB6-4F34-9AB6-BAE1C2A4CE44"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "25FAC07E-6ABB-4E0D-AA88-A22D3338134C"
+      "class": "group",
+      "id": "D34244D8-C291-4DA7-9815-2008240487F6"
     }
   ],
   "name": "选择语言",

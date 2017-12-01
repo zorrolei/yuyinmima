@@ -35,6 +35,10 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "slice",
+      "id": "F2BBBF8C-F955-4FD6-BA15-122C93A9FC17"
+    },
+    {
       "class": "shapeGroup",
       "id": "AB18DA49-7A93-4636-B0E4-1BFAEDE38B0C"
     },

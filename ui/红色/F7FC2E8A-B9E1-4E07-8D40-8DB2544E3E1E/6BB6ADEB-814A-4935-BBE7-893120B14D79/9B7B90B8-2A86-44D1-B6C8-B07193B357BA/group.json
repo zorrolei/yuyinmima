@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "9B7B90B8-2A86-44D1-B6C8-B07193B357BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 213,
+    "width": 180,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5E1E6D2B-9266-486B-8876-28661637F12F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2E78437D-55C8-4289-8067-2F433341FEAF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3EBD0FBA-8B16-4F80-B479-39D56BDFA642"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BB039E4E-62C5-4334-83FA-EB233104211A"
+    }
+  ],
+  "name": "Rectangle 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -26,12 +26,20 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "slice",
+      "id": "10C5C161-C032-4A83-AAB5-8FB9B5F1BD4F"
+    },
+    {
       "class": "shapeGroup",
       "id": "606A8885-7E78-4905-B30E-E578DD33D8E5"
     },
     {
       "class": "bitmap",
       "id": "8204EADB-5A9C-4960-9690-FDB44200AC61"
+    },
+    {
+      "class": "text",
+      "id": "0100C85C-9EB6-4F34-9AB6-BAE1C2A4CE44"
     }
   ],
   "name": "Page 1",
